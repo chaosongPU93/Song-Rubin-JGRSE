@@ -1,0 +1,19 @@
+./mph chat00
+./ITERCHAO <chat00o >chat01p
+./mph chat01
+./ITERCHAO <chat01o >chat02p
+./mph chat02
+./ITERCHAO <chat02o >chat03p
+./mph chat03
+./ITERCHAO <chat03o >chat04p
+./mph chat04
+./ITERCHAO <chat04o >chat05p
+./mph chat05
+./ITERCHAO <chat05o >chat06p
+./mph chat06
+./ITERCHAO <chat06o >chat07p
+./mph chat07
+./ITERCHAO <chat07o >chat08p
+./mph chat08
+./ITERCHAO <chat08o >chat09p
+./mph chat09

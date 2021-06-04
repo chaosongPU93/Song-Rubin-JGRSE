@@ -1,0 +1,14 @@
+
+Files  *.test  are to see that you get the same answers I do.
+
+First run one iteration
+
+mph chat00
+
+Compare chat00s.test and chat00o.test to what you get
+
+Run ten iterations
+
+blow.iter
+
+Compare chat09s.test and chat09o.test to what you get

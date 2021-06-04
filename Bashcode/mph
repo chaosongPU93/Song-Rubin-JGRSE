@@ -1,0 +1,7 @@
+sed -e s/nypha/$1p/ hypinst.test >hypinst
+#time /data/armb02/armb/PAK/MATCH/HYINV/hyinv
+time ./hyinv
+mv nyout $1o
+rm hyinv.out
+mv summ71 $1s
+rm summhi

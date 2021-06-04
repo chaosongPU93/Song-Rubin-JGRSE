@@ -1,0 +1,19 @@
+./mph chat00
+./ITER <chat00o >chat01p
+./mph chat01
+./ITER <chat01o >chat02p
+./mph chat02
+./ITER <chat02o >chat03p
+./mph chat03
+./ITER <chat03o >chat04p
+./mph chat04
+./ITER <chat04o >chat05p
+./mph chat05
+./ITER <chat05o >chat06p
+./mph chat06
+./ITER <chat06o >chat07p
+./mph chat07
+./ITER <chat07o >chat08p
+./mph chat08
+./ITER <chat08o >chat09p
+./mph chat09
